@@ -1,6 +1,6 @@
 <h1>README SEMIFINAL HIRING CODERS</h1>
 
-<h2>Inicadno o projeto com submódulos do git hub:</h2>
+<h2>Iniciando o projeto com submódulos do git hub:</h2>
 
 <p>Após clonar o repositório principal: </p>
 <ul>
