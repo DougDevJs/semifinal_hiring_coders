@@ -13,3 +13,5 @@
     <li>Acesse a pasta do submódulo: <b>cd/[nome do diretório]</b></li>
     <li>Execute o comando: <b>git pull remote sua_branch</b>, (Ex: git pull origin master)</li>
 </ul>
+<br/>
+<p><b color="#aa0000">Evitem efetuar push no repositório principal, desta maneira evitamos que problemas em um projeto prejudiquem o outro.</b></p>
