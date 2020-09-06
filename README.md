@@ -11,5 +11,5 @@
 <p>Atualizar a dependência:</p>
 <ul>
     <li>Acesse a pasta do submódulo: <b>cd/[nome do diretório]</b></li>
-    <li>Execute o comando: <b>git pull remote sua_branch</b>,(Ex: git pull origin master)</li>
+    <li>Execute o comando: <b>git pull remote sua_branch</b>, (Ex: git pull origin master)</li>
 </ul>
