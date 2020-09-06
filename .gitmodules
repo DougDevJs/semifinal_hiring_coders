@@ -1,0 +1,6 @@
+[submodule "semifinal_hiring_coders_back"]
+	path = semifinal_hiring_coders_back
+	url = https://github.com/miller00315/semifinal_hiring_coders_back.git
+[submodule "semifinal_hiring_coders_front"]
+	path = semifinal_hiring_coders_front
+	url = https://github.com/miller00315/semifinal_hiring_coders_front.git
