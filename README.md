@@ -14,4 +14,4 @@
     <li>Execute o comando: <b>git pull remote sua_branch</b>, (Ex: git pull origin master)</li>
 </ul>
 <br/>
-<p><b color="#aa0000">Evitem efetuar push no repositório principal, desta maneira evitamos que problemas em um projeto prejudiquem o outro.</b></p>
+<p><b>Evitem efetuar push no repositório principal, desta maneira evitamos que problemas em um projeto prejudiquem o outro.</b></p>
