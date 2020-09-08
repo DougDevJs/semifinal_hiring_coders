@@ -12,7 +12,7 @@
 <ul>
     <li>Acesse a pasta do submódulo: <b>cd/[nome do diretório]</b></li>
     <li>Execute <b>git checkout sua_branch</b> (Ex: git checkout master), para ir para sua branch ou criar outra branch.</li>
-    <li>Execute <b>git pull remote sua_branch</b>(Ex: git pull origin master), para atualizar sua branch em caso de mudanças não contabilizadas.</li>
+    <li>Execute <b>git pull remote sua_branch</b> (Ex: git pull origin master), para atualizar sua branch em caso de mudanças não contabilizadas.</li>
 </ul>
 <br/>
 <p><b>Evitem efetuar push no repositório principal, desta maneira evitamos que problemas em um projeto prejudiquem o outro.</b></p>
